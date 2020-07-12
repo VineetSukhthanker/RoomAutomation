@@ -17,3 +17,4 @@ This code was written in 2016. Update it according to your needs
 ### Resources
 
 [Tinkernut](https://youtu.be/J7hMIakDFtQ)
+[DIY Relay Shield](https://www.electroschematics.com/arduino-control-relay/)
